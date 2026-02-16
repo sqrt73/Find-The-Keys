@@ -1,0 +1,14 @@
+Note : Answers are ciphered if undiscovered.
+Additional note: Do NOT edit the ciphered text. It will make the checking impossible. Changing it is not part of a puzzle.
+
+First-Key : 55a7c7f37ecf524b16c2a2133d72cea5
+Difficulty : 1.0 / 10
+Clue : Read the instructions
+
+kitty-cat:3 : aa348b30a6cee845d3ec08aba7195264
+Difficulty : 1.1 / 10
+Clue : Find out what's in the secret.txt textfile 
+
+getting-meta : 3693d001ef473c748f6eac7f23141a73
+Difficulty : 1.2 / 10
+Clue : How dows the checker program work???
