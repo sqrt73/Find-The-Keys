@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#key{terminalVelocity}
 
 clear
 opt=0
