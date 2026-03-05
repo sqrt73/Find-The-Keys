@@ -12,3 +12,11 @@ Clue : Find out what's in the secret.txt textfile
 getting-meta : 3693d001ef473c748f6eac7f23141a73
 Difficulty : 1.2 / 10
 Clue : How dows the checker program work???
+
+SummerReading : da26b74230c69e9cbb5d8cd333b83ed2
+Difficulty : 1.2 / 10
+Clue : Hey, what's the ending of War and Peace again?
+
+famous-quote-#784 : 6a088cd5f092463cd5528fe8e797be0c
+Difficulty : 1.5 / 10
+Clue : There's a key hiding in the middle of War and Peace...
